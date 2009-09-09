@@ -1,0 +1,9 @@
+## Interface: 30200
+## Title: ColorizedGuildOnlineAlert
+## Author: Sven Kirmess
+## Notes: Shows the "[Player] is online." message in the guild chat color for guild members
+## SavedVariables:
+## OptionalDeps:
+## Dependencies:
+## X-Website: 
+ColorizedGuildOnlineAlert.xml
